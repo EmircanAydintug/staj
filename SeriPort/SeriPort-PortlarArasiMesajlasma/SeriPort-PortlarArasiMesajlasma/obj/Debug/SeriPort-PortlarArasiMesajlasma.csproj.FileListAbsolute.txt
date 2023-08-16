@@ -1,0 +1,11 @@
+C:\Users\emircan\Desktop\SeriPort\SeriPort-PortlarArasiMesajlasma\SeriPort-PortlarArasiMesajlasma\bin\Debug\SeriPort-PortlarArasiMesajlasma.exe.config
+C:\Users\emircan\Desktop\SeriPort\SeriPort-PortlarArasiMesajlasma\SeriPort-PortlarArasiMesajlasma\bin\Debug\SeriPort-PortlarArasiMesajlasma.exe
+C:\Users\emircan\Desktop\SeriPort\SeriPort-PortlarArasiMesajlasma\SeriPort-PortlarArasiMesajlasma\bin\Debug\SeriPort-PortlarArasiMesajlasma.pdb
+C:\Users\emircan\Desktop\SeriPort\SeriPort-PortlarArasiMesajlasma\SeriPort-PortlarArasiMesajlasma\obj\Debug\SeriPort-PortlarArasiMesajlasma.csproj.AssemblyReference.cache
+C:\Users\emircan\Desktop\SeriPort\SeriPort-PortlarArasiMesajlasma\SeriPort-PortlarArasiMesajlasma\obj\Debug\SeriPort-PortlarArasiMesajlasma.csproj.SuggestedBindingRedirects.cache
+C:\Users\emircan\Desktop\SeriPort\SeriPort-PortlarArasiMesajlasma\SeriPort-PortlarArasiMesajlasma\obj\Debug\SeriPort_PortlarArasiMesajlasma.btnGonder.resources
+C:\Users\emircan\Desktop\SeriPort\SeriPort-PortlarArasiMesajlasma\SeriPort-PortlarArasiMesajlasma\obj\Debug\SeriPort_PortlarArasiMesajlasma.Properties.Resources.resources
+C:\Users\emircan\Desktop\SeriPort\SeriPort-PortlarArasiMesajlasma\SeriPort-PortlarArasiMesajlasma\obj\Debug\SeriPort-PortlarArasiMesajlasma.csproj.GenerateResource.cache
+C:\Users\emircan\Desktop\SeriPort\SeriPort-PortlarArasiMesajlasma\SeriPort-PortlarArasiMesajlasma\obj\Debug\SeriPort-PortlarArasiMesajlasma.csproj.CoreCompileInputs.cache
+C:\Users\emircan\Desktop\SeriPort\SeriPort-PortlarArasiMesajlasma\SeriPort-PortlarArasiMesajlasma\obj\Debug\SeriPort-PortlarArasiMesajlasma.exe
+C:\Users\emircan\Desktop\SeriPort\SeriPort-PortlarArasiMesajlasma\SeriPort-PortlarArasiMesajlasma\obj\Debug\SeriPort-PortlarArasiMesajlasma.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriPort-PortlarArasiMesajlasma", "SeriPort-PortlarArasiMesajlasma\SeriPort-PortlarArasiMesajlasma.csproj", "{9AD36171-7D42-4F3B-8254-E1BA3A0E554B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD36171-7D42-4F3B-8254-E1BA3A0E554B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD36171-7D42-4F3B-8254-E1BA3A0E554B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD36171-7D42-4F3B-8254-E1BA3A0E554B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD36171-7D42-4F3B-8254-E1BA3A0E554B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38F4945F-1540-4836-84D7-C8BFD77D7559}
+	EndGlobalSection
+EndGlobal
