@@ -1,0 +1,11 @@
+C:\Users\emircan\Desktop\staj\Arduino\ArduinoSeriportLedKontrol\ArduinoSeriportLedKontrol\bin\Debug\ArduinoSeriportLedKontrol.exe.config
+C:\Users\emircan\Desktop\staj\Arduino\ArduinoSeriportLedKontrol\ArduinoSeriportLedKontrol\bin\Debug\ArduinoSeriportLedKontrol.exe
+C:\Users\emircan\Desktop\staj\Arduino\ArduinoSeriportLedKontrol\ArduinoSeriportLedKontrol\bin\Debug\ArduinoSeriportLedKontrol.pdb
+C:\Users\emircan\Desktop\staj\Arduino\ArduinoSeriportLedKontrol\ArduinoSeriportLedKontrol\obj\Debug\ArduinoSeriportLedKontrol.csproj.AssemblyReference.cache
+C:\Users\emircan\Desktop\staj\Arduino\ArduinoSeriportLedKontrol\ArduinoSeriportLedKontrol\obj\Debug\ArduinoSeriportLedKontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\emircan\Desktop\staj\Arduino\ArduinoSeriportLedKontrol\ArduinoSeriportLedKontrol\obj\Debug\ArduinoSeriportLedKontrol.Form1.resources
+C:\Users\emircan\Desktop\staj\Arduino\ArduinoSeriportLedKontrol\ArduinoSeriportLedKontrol\obj\Debug\ArduinoSeriportLedKontrol.Properties.Resources.resources
+C:\Users\emircan\Desktop\staj\Arduino\ArduinoSeriportLedKontrol\ArduinoSeriportLedKontrol\obj\Debug\ArduinoSeriportLedKontrol.csproj.GenerateResource.cache
+C:\Users\emircan\Desktop\staj\Arduino\ArduinoSeriportLedKontrol\ArduinoSeriportLedKontrol\obj\Debug\ArduinoSeriportLedKontrol.csproj.CoreCompileInputs.cache
+C:\Users\emircan\Desktop\staj\Arduino\ArduinoSeriportLedKontrol\ArduinoSeriportLedKontrol\obj\Debug\ArduinoSeriportLedKontrol.exe
+C:\Users\emircan\Desktop\staj\Arduino\ArduinoSeriportLedKontrol\ArduinoSeriportLedKontrol\obj\Debug\ArduinoSeriportLedKontrol.pdb
